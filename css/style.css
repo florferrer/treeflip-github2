@@ -64,6 +64,10 @@ body {
   padding: 6rem 0 0 0;
 }
 
+.fondoCuerpo {
+  background-image: linear-gradient(to left, red, yellow);
+}
+
 .footer-info {
   background-color: white;
   padding-top: 3rem;
