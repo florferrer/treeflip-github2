@@ -1,7 +1,7 @@
-body {
-  padding-top: 8rem;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.img_cards {
-  width: 100px;
-}
+/*# sourceMappingURL=style.css.map */
