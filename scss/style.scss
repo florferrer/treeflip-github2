@@ -4,10 +4,10 @@
   box-sizing: border-box;
 }
 
-@import url(./base/_reset.scss);
-@import url(./base/_typography.scss);
-@import url(./base/_variables.scss);
-@import url(./base/_bootstrap.scss);
+@import url(./base/reset.scss);
+@import url(./base/typography.scss);
+@import url(./base/variables.scss);
+@import url(./base/bootstrap.scss);
 
 @import url(./componentes/_header.scss);
 
