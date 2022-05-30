@@ -10,3 +10,34 @@
 }
 
 /*# sourceMappingURL=style.css.map */
+
+img {
+  /* Para que imagenes se acomoden y se achiquen si se achica la pantalla */
+  max-width: 100%;
+}
+
+img,
+svg {
+  /* centro de ellas mismas */
+  vertical-align: middle;
+}
+
+.remeras {
+  margin: 2rem;
+  max-width: 300px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.45);
+  font-family: "Raleway", sans-serif;
+}
+
+.remera__titulo {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.remera__descripcion {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  color: #3a3a3a;
+}
